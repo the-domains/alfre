@@ -1,6 +1,6 @@
 name: alfre
 favicon: null
-layout_spectrum: 0.29262170824222267
+layout_spectrum: 1
 typography_spectrum: 0.9483730781357735
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#688247'
     - '#9aa49a'
     - '#c6cccd'
-  brandStrength: 0.08805888635106385
+  brandStrength: 0.0625
   lightness: 0.9551695564296097
   saturation: 0.45839108410291374
   rhythmicContrast: 0.02153238421306014
